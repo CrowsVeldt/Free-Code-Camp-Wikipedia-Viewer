@@ -1,0 +1,35 @@
+/* Styles go here */
+
+#header {
+  color: purple;
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+#contents{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.result {
+  margin-top: 10px;
+  text-align: center;
+  background-color: lightblue;
+  border: solid;
+}
+
+.resultLink{
+  text-decoration: none;
+  color: black;
+}
+
+#random{
+    background-color: lightblue;
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    border: solid;
+    margin-top: 10px;
+}
